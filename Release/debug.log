@@ -845,3 +845,11 @@ No ingreses ni pegues ningún código que no entiendas.", source: https://www.gs
 [1027/031534.543:INFO:CONSOLE(1)] "Uncaught SyntaxError: Failed to execute 'matches' on 'Element': '[open]:not(:modal)' is not a valid selector.", source: https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-468bf7cab607.js (1)
 [1027/031534.619:INFO:CONSOLE(23)] "Deprecated API for given entry type.", source: https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-31b9f3-9021ed20220b.js (23)
 [1027/031659.298:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1027/033229.171:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[1027/033229.171:ERROR:cache_util.cc(146)] Unable to move cache folder GPUCache to old_GPUCache_000
+[1027/033229.171:ERROR:disk_cache.cc(186)] Unable to create cache
+[1027/033229.171:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1027/033230.469:INFO:CONSOLE(1)] "Uncaught SyntaxError: Failed to execute 'matches' on 'Element': '[open]:not(:modal)' is not a valid selector.", source: https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-468bf7cab607.js (1)
+[1027/033230.470:INFO:CONSOLE(1)] "Uncaught SyntaxError: Failed to execute 'matches' on 'Element': '[open]:not(:modal)' is not a valid selector.", source: https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-468bf7cab607.js (1)
+[1027/033230.538:INFO:CONSOLE(23)] "Deprecated API for given entry type.", source: https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-31b9f3-9021ed20220b.js (23)
+[1027/033429.265:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
